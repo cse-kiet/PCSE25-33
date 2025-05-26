@@ -1,22 +1,46 @@
-# Title of Project: CARDIAC DISEASE PREDICTION USING MACHINE LEARNING
+# Cardiac Disease Prediction Using Machine Learning
 
-## Team Members:
-1. MANAV ROHILLA
-2. SUKRITI RAI
-3. PARKHI GUPTA
+## 👨‍💻 Team Members
 
-## Steps for Execution:
-1. Download the dataset from the Dataset folder. 
-2. Extract Features using GLCM, HOG and LBP techniques.
-3. Train and Test the Models using the features extracted.
+| Name           | Roll Number        |
+|----------------|--------------------|
+| Manav Rohilla  | 2100290100006      |
+| Sukriti Rai    | 2100290100169      |
+| Parkhi Gupta   | 2100290100112      |
 
-## Checklist:
-1. Final Project Report
-2. Certificate VII Semester (Dated: December 2024).
-3. Certificate VIII Semester (Dated: May 2025).
-4. Synopsis
-5. Final Presentation
-6. Source Code
-7. Database dump (.sql file)
-8. If a web project, then a Docker file for deployment
-9. README (This file)
+
+---
+
+## 🚀 Project Overview
+
+This project aims for early detection and accurate prediction of cardiac diseases, this can significantly improve patient outcomes by allowing timely intervention and treatment. The hypothesis is that specific patterns and characteristics in the shape of the heart, as visualized through medical imaging techniques, may be indicative of underlying cardiac conditions and can be utilized as a predictive tool.
+
+
+
+---
+
+## ⚙️ Steps to Execute the Project
+
+1. Clone this repository and navigate to the project root directory.
+2. Go to the `Source Code` folder.
+3. Download the dataset from https://www.kaggle.com/datasets/xiaoweixumedicalai/imagechd
+4. Runs the GLCM, HOG and LBP files for feature extraction from the `Feature Extraction` folder.
+5. Train and Test the features extracted for prediction of cardiac disease from the `Models` folder.
+
+---
+
+## ✅ Project Checklist
+
+| Task                                             | Status       |
+|--------------------------------------------------|--------------|
+| Final Project Report                             | ✅ Done       |
+| Certificate VII Semester (Dated: December 2024)  | ✅ Done       |
+| Certificate VIII Semester (Dated: May 2025)      | ✅ Done       |
+| Synopsis                                         | ✅ Done       |
+| Final Presentation                               | ✅ Done       |
+| Source Code                                      | ✅ Done       |
+| Database Dump (`.sql` file)                      | ❌ Not Needed |
+| Docker File (For Web Deployment)                 | ❌ Not Needed |
+| README File                                      | ✅ You're reading it! |
+
+---
